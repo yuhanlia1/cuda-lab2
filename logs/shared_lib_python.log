@@ -1,0 +1,2 @@
+Python call to CUDA library completed the matrix mult in 0.0057 seconds
+Python call to CUDA library completed the convolution in 0.0018 seconds
